@@ -1,6 +1,7 @@
 # Augmented Reality
+<https://www.youtube.com/watch?v=agrcOe9xEBs&ab_channel=yahi>
 
-a simple finger-guessing game using opencv
+Finger-guessing game using opencv
 
 - using BackgroundSubtractorMOG to subtract the backround to register hands
 
